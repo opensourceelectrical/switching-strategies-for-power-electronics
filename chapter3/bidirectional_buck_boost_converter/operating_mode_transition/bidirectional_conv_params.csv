@@ -1,0 +1,27 @@
+Switch,Vo,3AA,Voltage level (V) = 1000.000000,Negative polarity towards (cell) = 2AA,Name of control signal = vo_gate
+Switch,Vin,5A,Voltage level (V) = 1000.000000,Negative polarity towards (cell) = 4A,Name of control signal = vin_gate
+Switch,S1,5K,Voltage level (V) = 1000.000000,Negative polarity towards (cell) = 6K,Name of control signal = s1_gate
+Switch,S3,5U,Voltage level (V) = 1000.000000,Negative polarity towards (cell) = 6U,Name of control signal = s3_gate
+Switch,S2,15K,Voltage level (V) = 1000.000000,Negative polarity towards (cell) = 16K,Name of control signal = s2_gate
+Switch,S4,15U,Voltage level (V) = 1000.000000,Negative polarity towards (cell) = 16U,Name of control signal = s4_gate
+Diode,D1,5M,Voltage level (V) = 1000.000000,Cathode polarity towards (cell) = 4M
+Diode,D3,5W,Voltage level (V) = 1000.000000,Cathode polarity towards (cell) = 4W
+Diode,D2,15M,Voltage level (V) = 1000.000000,Cathode polarity towards (cell) = 14M
+Diode,D4,15W,Voltage level (V) = 1000.000000,Cathode polarity towards (cell) = 14W
+VoltageSource,Vo,6AA,Peak (Volts) = 0.000000,Frequency (Hertz) = 0.000000,Phase (degrees) = 0.000000,Dc offset = 9.000000,Positive polarity towards (cell) = 5AA
+VoltageSource,Vin,12A,Peak (Volts) = 0.000000,Frequency (Hertz) = 0.000000,Phase (degrees) = 0.000000,Dc offset = 24.000000,Positive polarity towards (cell) = 11A
+Resistor,Vin,9A,0.01
+Resistor,L1,10Q,0.01
+Resistor,load,10AE,10.0
+Resistor,source,13E,10.0
+Resistor,Vo,14AA,0.01
+Resistor,Cin,17I,0.01
+Resistor,Co,17Y,0.01
+Ammeter,source,9E,Positive polarity towards (cell) = 8E
+Ammeter,Vo,9AA,Positive polarity towards (cell) = 10AA
+Ammeter,L1,10S,Positive polarity towards (cell) = 10T
+Inductor,L1,10O,0.001
+Voltmeter,Vo,10AC,Rated voltage level to be measured = 1000.0,Positive polarity towards (cell) = 9AC
+Voltmeter,Vin,15G,Rated voltage level to be measured = 1000.0,Positive polarity towards (cell) = 14G
+Capacitor,Cin,13I,0.0001,Positive polarity towards (cell) = 12I
+Capacitor,Co,13Y,0.0001,Positive polarity towards (cell) = 12Y

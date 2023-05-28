@@ -1,0 +1,4 @@
+TimeEvent, Desired variable name in control code = t1, First time event = 0.0, 
+VariableStorage, Desired variable name in control code = ref_volt_A, Initial value of variable = 0.0, Plot variable in output file = yes, 
+VariableStorage, Desired variable name in control code = ref_volt_B, Initial value of variable = 0.0, Plot variable in output file = yes, 
+VariableStorage, Desired variable name in control code = ref_volt_C, Initial value of variable = 0.0, Plot variable in output file = yes, 

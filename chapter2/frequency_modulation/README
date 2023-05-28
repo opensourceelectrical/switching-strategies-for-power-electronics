@@ -1,0 +1,8 @@
+Description: This directory contains the programs the demonstrate the basic concept of Frequency Modulation (FM). The file also contains a frequency response segment that performs DFT.
+
+Files:
+FM: This file uses a steady audio signal as the modulating signal for AM
+
+Will generate:
+Plots that can be optionally saved as .eps files.
+

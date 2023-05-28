@@ -1,0 +1,12 @@
+Inductor,loadleg1,3E,0.001,
+Inductor,loadleg2,3M,0.001,
+Inductor,loadleg3,3U,0.001,
+Voltmeter,loadleg1,7C,Rated voltage level to be measured = 1000.0,Positive polarity towards (cell) = 6C
+Voltmeter,loadleg2,7K,Rated voltage level to be measured = 1000.0,Positive polarity towards (cell) = 6K
+Voltmeter,loadleg3,7S,Rated voltage level to be measured = 1000.0,Positive polarity towards (cell) = 6S
+Resistor,loadleg1,3E,10,
+Resistor,loadleg2,7M,10,
+Resistor,loadleg3,7U,10,
+Ammeter,loadleg1,11E,Positive polarity towards (cell) = 12E,
+Ammeter,loadleg2,11M,Positive polarity towards (cell) = 12M,
+Ammeter,loadleg3,11U,Positive polarity towards (cell) = 12U,

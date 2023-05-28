@@ -1,0 +1,9 @@
+Description: This directory contains the programs the demonstrate the basic concept of Amplitude Modulation (AM). Each file also contains a frequency response segment that performs DFT.
+
+Files:
+AM_concept.py: This file uses a steady audio signal as the modulating signal for AM
+AM_random_signal.py: This file adds a randomness to the magnitude and frequency of the steady audio signal and describes how the frequency response captures this variation in frequency.
+
+Will generate:
+Plots that can be optionally saved as .eps files.
+

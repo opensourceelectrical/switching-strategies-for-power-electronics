@@ -1,0 +1,23 @@
+Switch,S1,6M,Voltage level (V) = 1000.000000,Negative polarity towards (cell) = 7M,Name of control signal = S1Gate
+Switch,S2,21M,Voltage level (V) = 1000.000000,Negative polarity towards (cell) = 22M,Name of control signal = S2Gate
+Diode,D1,6O,Voltage level (V) = 1000.000000,Cathode polarity towards (cell) = 5O
+Diode,D2,21O,Voltage level (V) = 1000.000000,Cathode polarity towards (cell) = 20O
+Voltmeter,Q1,6Q,Rated voltage level to be measured = 1000.0,Positive polarity towards (cell) = 5Q
+Voltmeter,VH,12Y,Rated voltage level to be measured = 1000.0,Positive polarity towards (cell) = 11Y
+Voltmeter,VL,20C,Rated voltage level to be measured = 1000.0,Positive polarity towards (cell) = 19C
+Voltmeter,Q2,21Q,Rated voltage level to be measured = 1000.0,Positive polarity towards (cell) = 20Q
+Resistor,VH,6AA,0.001
+Resistor,L,13K,0.1
+Resistor,CH,14W,0.01
+Resistor,VL,16A,0.001
+Resistor,CL,20E,0.01
+Resistor,RLoad,20AA,10.0
+Capacitor,CH,7W,0.0001,Positive polarity towards (cell) = 6W
+Capacitor,CL,16E,0.0001,Positive polarity towards (cell) = 15E
+Ammeter,IL,13A,Positive polarity towards (cell) = 13B
+Ammeter,L,13G,Positive polarity towards (cell) = 13H
+Ammeter,IH,13AA,Positive polarity towards (cell) = 14AA
+Ammeter,CL,24E,Positive polarity towards (cell) = 25E
+Ammeter,CH,24W,Positive polarity towards (cell) = 25W
+Inductor,L,13I,0.001
+VoltageSource,VL,20A,Peak (Volts) = 0.000000,Frequency (Hertz) = 0.000000,Phase (degrees) = 0.000000,Dc offset = 18.000000,Positive polarity towards (cell) = 19A

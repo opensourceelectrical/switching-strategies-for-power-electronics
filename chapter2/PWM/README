@@ -1,0 +1,9 @@
+Description: This directory contains the programs the demonstrate the advantage of PWM over rectangular waveform approximation of a sine waveform. The file also contains a frequency response segment that performs DFT.
+
+Files:
+rectangular_wavform.py: This file converts a sine waveform to a rectangular waveform and examines the frequency response.
+sine_pwm.py: This file performs sine-triangle comparison to generate pulses of varying width in the form a basic PWM and examines the frequency response.
+
+Will generate:
+Plots that can be optionally saved as .eps files.
+

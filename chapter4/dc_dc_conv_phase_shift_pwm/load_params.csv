@@ -1,0 +1,4 @@
+Ammeter,load,11G,Positive polarity towards (cell) = 12G,
+Inductor,load,3G,0.001,
+Resistor,load,7G,10,
+Voltmeter,load,7E,Rated voltage level to be measured = 1000.0,Positive polarity towards (cell) = 6E

@@ -1,0 +1,15 @@
+Switch,S5,5I,Voltage level (V) = 1000.000000,Negative polarity towards (cell) = 6I,Name of control signal = s5_gate
+Switch,S7,5Q,Voltage level (V) = 1000.000000,Negative polarity towards (cell) = 6Q,Name of control signal = s7_gate
+Switch,S6,15I,Voltage level (V) = 1000.000000,Negative polarity towards (cell) = 16I,Name of control signal = s6_gate
+Switch,S8,15Q,Voltage level (V) = 1000.000000,Negative polarity towards (cell) = 16Q,Name of control signal = s8_gate
+Diode,D5,5K,Voltage level (V) = 1000.000000,Cathode polarity towards (cell) = 4K
+Diode,D7,5S,Voltage level (V) = 1000.000000,Cathode polarity towards (cell) = 4S
+Diode,D6,15K,Voltage level (V) = 1000.000000,Cathode polarity towards (cell) = 14K
+Diode,D8,15S,Voltage level (V) = 1000.000000,Cathode polarity towards (cell) = 14S
+Ammeter,source2,9A,Positive polarity towards (cell) = 8A
+Resistor,source2,13A,0.01
+Resistor,load2,13G,10.0
+Resistor,Cin2,17E,0.01
+Capacitor,Cin2,13E,0.0001,Positive polarity towards (cell) = 12E
+VoltageSource,source2,15A,Peak (Volts) = 0.000000,Frequency (Hertz) = 0.000000,Phase (degrees) = 0.000000,Dc offset = 24.000000,Positive polarity towards (cell) = 14A
+Voltmeter,Vin2,15C,Rated voltage level to be measured = 1000.0,Positive polarity towards (cell) = 14C

@@ -1,0 +1,14 @@
+jumpconv1leg1,wire,wire,wire,wire,,,,jumpconv1leg2,wire,wire,wire,wire,,,,jumpconv1leg3,wire,wire,wire,wire
+,,wire,,wire,,,,,,wire,,wire,,,,,,wire,,wire
+,,wire,,Inductor_loadleg1,,,,,,wire,,Inductor_loadleg2,,,,,,wire,,Inductor_loadleg3
+,,wire,,wire,,,,,,wire,,wire,,,,,,wire,,wire
+,,wire,,wire,,,,,,wire,,wire,,,,,,wire,,wire
+,,wire,,wire,,,,,,wire,,wire,,,,,,wire,,wire
+,,Voltmeter_loadleg1,,Resistor_loadleg1,,,,,,Voltmeter_loadleg2,,Resistor_loadleg2,,,,,,Voltmeter_loadleg3,,Resistor_loadleg3
+,,wire,,wire,,,,,,wire,,wire,,,,,,wire,,wire
+,,wire,,wire,,,,,,wire,,wire,,,,,,wire,,wire
+,,wire,,wire,,,,,,wire,,wire,,,,,,wire,,wire
+,,wire,,Ammeter_loadleg1,,,,,,wire,,Ammeter_loadleg2,,,,,,wire,,Ammeter_loadleg3
+,,wire,,wire,,,,,,wire,,wire,,,,,,wire,,wire
+,,wire,,wire,,,,,,wire,,wire,,,,,,wire,,wire
+,,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire

@@ -1,0 +1,16 @@
+Description: This directory contains the simulation files for simulating an buck converter.
+
+Circuit schematics:
+buck_conv.csv with parameters in buck_conv_params.csv
+
+Control files:
+gate_signal.py with control variables in descriptor gate_signal_desc.csv
+
+Other files:
+- freq_analysis.py: Can perform frequency analysis on any variable stored in ckt_output.dat file below. The user will need to use the order of variables in plotkey.txt to be able to extract the variables.
+
+Will generate:
+- ckt_output.dat (default simulator output file)
+- plotkey.txt with a list of all the variables written to the ckt_output.dat file above. Can be used by the user to plot the variables with another software like Matplotlib.
+- auto_plot.py: This file will only be generated if the "Export to Matplotlib" button in the Output Page after running the simulation. This file will contain a sample Matplotlib file with all the plots that have been defined in the output page by the user.
+

@@ -1,0 +1,14 @@
+jumpconv1leg1,wire,wire,wire,Inductor_filter,wire,Resistor_filter,wire,Ammeter_filter,wire,wire,wire,jumpconv2leg1
+,,wire,,,,,,,,wire,,
+,,wire,,,,,,,,wire,,
+,,wire,,,,,,,,wire,,
+,,wire,,,,,,,,wire,,
+,,wire,,,,,,,,wire,,
+,,Voltmeter_brg1,,,,,,,,Voltmeter_brg2,,
+,,wire,,,,,,,,wire,,
+,,wire,,,,,,,,wire,,
+,,wire,,,,,,,,wire,,
+,,wire,,,,,,,,wire,,
+,,wire,,,,,,,,wire,,
+,,wire,,,,,,,,wire,,
+jumpconv1leg2,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,jumpconv2leg2

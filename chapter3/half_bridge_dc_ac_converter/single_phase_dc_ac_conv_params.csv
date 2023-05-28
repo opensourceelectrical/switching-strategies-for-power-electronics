@@ -1,0 +1,17 @@
+Ammeter,Vin,2E,Positive polarity towards (cell) = 1E
+Ammeter,Cin1,8C,Positive polarity towards (cell) = 7C
+Ammeter,load,10O,Positive polarity towards (cell) = 10P
+Ammeter,Cin2,13C,Positive polarity towards (cell) = 12C
+Capacitor,Cin1,4C,0.01,Positive polarity towards (cell) = 3C
+Capacitor,Cin2,15C,0.01,Positive polarity towards (cell) = 14C
+VoltageSource,Vin,4E,Peak (Volts) = 0.000000,Frequency (Hertz) = 0.000000,Phase (degrees) = 0.000000,Dc offset = 24.000000,Positive polarity towards (cell) = 3E
+Switch,S1,5G,Voltage level (V) = 1000.000000,Negative polarity towards (cell) = 6G,Name of control signal = s1_gate
+Switch,S2,15G,Voltage level (V) = 1000.000000,Negative polarity towards (cell) = 16G,Name of control signal = s2_gate
+Diode,D1,5I,Voltage level (V) = 1000.000000,Cathode polarity towards (cell) = 4I
+Diode,D2,15I,Voltage level (V) = 1000.000000,Cathode polarity towards (cell) = 14I
+Resistor,Cin1,6C,0.01
+Resistor,Vin,6E,0.001
+Resistor,Cin2,17C,0.01
+Resistor,Rload,18P,10.0
+Inductor,Lload,16P,0.005
+Voltmeter,Vload,18N,Rated voltage level to be measured = 1000.0,Positive polarity towards (cell) = 17N

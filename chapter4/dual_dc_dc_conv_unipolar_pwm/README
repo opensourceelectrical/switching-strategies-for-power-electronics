@@ -1,0 +1,16 @@
+Description: This directory contains the simulation files for simulating two full-bridge dc-dc converters with unipolar PWM interaced through an inductor.
+
+Circuit schematics:
+- full_bridge_conv1.csv with parameters in full_bridge_conv1_params.csv (for the left converter)
+- full_bridge_conv2.csv with parameters in full_bridge_conv2_params.csv (for the right converter)
+- interface.csv with parameters in interface_params.csv
+
+Control files:
+- gate_signal1.py with control variables in descriptor gate_signal1_desc.csv (for the left converter)
+- gate_signal2.py with control variables in descriptor gate_signal2_desc.csv (for the right converter)
+
+Will generate:
+- ckt_output.dat (default simulator output file)
+- plotkey.txt with a list of all the variables written to the ckt_output.dat file above. Can be used by the user to plot the variables with another software like Matplotlib.
+- auto_plot.py: This file will only be generated if the "Export to Matplotlib" button in the Output Page after running the simulation. This file will contain a sample Matplotlib file with all the plots that have been defined in the output page by the user.
+

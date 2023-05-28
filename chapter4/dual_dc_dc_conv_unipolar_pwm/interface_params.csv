@@ -1,0 +1,5 @@
+Ammeter,filter,1I,Positive polarity towards (cell) = 1J
+Resistor,filter,1G,0.1
+Voltmeter,brg1,7C,Rated voltage level to be measured = 1000.0,Positive polarity towards (cell) = 6C
+Voltmeter,brg2,7K,Rated voltage level to be measured = 1000.0,Positive polarity towards (cell) = 6K
+Inductor,filter,1E,0.001

@@ -1,0 +1,11 @@
+Description: This directory contains Python files for generating vector diagrams for the three-phase mutli-level converters.
+
+Files:
+- line_neutral_map_3level.py: Generates a vector diagram with line-neutral output voltages of the 3-level converter
+- three_level_one_quadrant.py: Python file for forumlating SVPWM algorithm for 3-level converter using one quadrant
+- line_neutral_map_4level.py: Generates a vector diagram with line-neutral output voltages of the 4-level converter
+
+Will generate:
+- Console logs with vector tables
+- Optionally .eps files of vector diagrams
+

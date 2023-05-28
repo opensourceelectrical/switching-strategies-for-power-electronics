@@ -1,0 +1,14 @@
+jumpconv1leg1,wire,wire,wire,wire,wire,wire
+,,,,wire,,wire
+,,,,wire,,Inductor_load
+,,,,wire,,wire
+,,,,wire,,wire
+,,,,wire,,wire
+,,,,Voltmeter_load,,Resistor_load
+,,,,wire,,wire
+,,,,wire,,wire
+,,,,wire,,wire
+,,,,wire,,Ammeter_load
+,,,,wire,,wire
+,,,,wire,,wire
+jumpconv1leg2,wire,wire,wire,wire,wire,wire

@@ -1,0 +1,42 @@
+Voltmeter,Cin1,6G,Rated voltage level to be measured = 1000.0,Positive polarity towards (cell) = 5G
+Voltmeter,Vin,18C,Rated voltage level to be measured = 1000.0,Positive polarity towards (cell) = 17C
+Voltmeter,Cin2,30G,Rated voltage level to be measured = 1000.0,Positive polarity towards (cell) = 29G
+Resistor,Cin1bleed,6I,10000.0
+Resistor,Cin1,8E,0.001
+Resistor,source,28A,0.001
+Resistor,Cin2bleed,30I,10000.0
+Resistor,Cin2,32E,0.001
+Ammeter,source,18A,Positive polarity towards (cell) = 17A
+Capacitor,Cin1,4E,0.005,Positive polarity towards (cell) = 3E
+Capacitor,Cin2,28E,0.005,Positive polarity towards (cell) = 27E
+Switch,S1,5O,Voltage level (V) = 1000.000000,Negative polarity towards (cell) = 6O,Name of control signal = s1_gate
+Switch,S5,5AA,Voltage level (V) = 1000.000000,Negative polarity towards (cell) = 6AA,Name of control signal = s5_gate
+Switch,S9,5AM,Voltage level (V) = 1000.000000,Negative polarity towards (cell) = 6AM,Name of control signal = s9_gate
+Switch,S2,14O,Voltage level (V) = 1000.000000,Negative polarity towards (cell) = 15O,Name of control signal = s2_gate
+Switch,S6,14AA,Voltage level (V) = 1000.000000,Negative polarity towards (cell) = 15AA,Name of control signal = s6_gate
+Switch,S10,14AM,Voltage level (V) = 1000.000000,Negative polarity towards (cell) = 15AM,Name of control signal = s10_gate
+Switch,S3,22O,Voltage level (V) = 1000.000000,Negative polarity towards (cell) = 23O,Name of control signal = s3_gate
+Switch,S7,22AA,Voltage level (V) = 1000.000000,Negative polarity towards (cell) = 23AA,Name of control signal = s7_gate
+Switch,S11,22AM,Voltage level (V) = 1000.000000,Negative polarity towards (cell) = 23AM,Name of control signal = s11_gate
+Switch,S4,31O,Voltage level (V) = 1000.000000,Negative polarity towards (cell) = 32O,Name of control signal = s4_gate
+Switch,S8,31AA,Voltage level (V) = 1000.000000,Negative polarity towards (cell) = 32AA,Name of control signal = s8_gate
+Switch,S12,31AM,Voltage level (V) = 1000.000000,Negative polarity towards (cell) = 32AM,Name of control signal = s12_gate
+Diode,D1,5Q,Voltage level (V) = 1000.000000,Cathode polarity towards (cell) = 4Q
+Diode,D5,5AC,Voltage level (V) = 1000.000000,Cathode polarity towards (cell) = 4AC
+Diode,D9,5AO,Voltage level (V) = 1000.000000,Cathode polarity towards (cell) = 4AO
+Diode,Dm1,14M,Voltage level (V) = 1000.000000,Cathode polarity towards (cell) = 13M
+Diode,D2,14Q,Voltage level (V) = 1000.000000,Cathode polarity towards (cell) = 13Q
+Diode,Dm3,14Y,Voltage level (V) = 1000.000000,Cathode polarity towards (cell) = 13Y
+Diode,D6,14AC,Voltage level (V) = 1000.000000,Cathode polarity towards (cell) = 13AC
+Diode,Dm5,14AK,Voltage level (V) = 1000.000000,Cathode polarity towards (cell) = 13AK
+Diode,D10,14AO,Voltage level (V) = 1000.000000,Cathode polarity towards (cell) = 13AO
+Diode,Dm2,22M,Voltage level (V) = 1000.000000,Cathode polarity towards (cell) = 21M
+Diode,D3,22Q,Voltage level (V) = 1000.000000,Cathode polarity towards (cell) = 21Q
+Diode,Dm4,22Y,Voltage level (V) = 1000.000000,Cathode polarity towards (cell) = 21Y
+Diode,D7,22AC,Voltage level (V) = 1000.000000,Cathode polarity towards (cell) = 21AC
+Diode,Dm6,22AK,Voltage level (V) = 1000.000000,Cathode polarity towards (cell) = 21AK
+Diode,D11,22AO,Voltage level (V) = 1000.000000,Cathode polarity towards (cell) = 21AO
+Diode,D4,31Q,Voltage level (V) = 1000.000000,Cathode polarity towards (cell) = 30Q
+Diode,D8,31AC,Voltage level (V) = 1000.000000,Cathode polarity towards (cell) = 30AC
+Diode,D12,31AO,Voltage level (V) = 1000.000000,Cathode polarity towards (cell) = 30AO
+VoltageSource,source,32A,Peak (Volts) = 0.000000,Frequency (Hertz) = 0.000000,Phase (degrees) = 0.000000,Dc offset = 24.000000,Positive polarity towards (cell) = 31A

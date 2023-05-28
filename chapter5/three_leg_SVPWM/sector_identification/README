@@ -1,0 +1,15 @@
+Description: This directory contains the simulation files for simulating a three-phase three-leg 2-level converter with Space Vector PWM with vector sequence based on sector identification.
+
+Circuit schematics:
+- three_phase_conv.csv with parameters in three_phase_conv_params.csv
+- load.csv with parameters in load_params.csv
+
+Control files:
+- reference_generator.py with control variables in descriptor reference_generator_desc.csv
+- SVPWM.py with control variables in descriptor SVPWM_desc.csv
+
+Will generate:
+- ckt_output.dat (default simulator output file)
+- plotkey.txt with a list of all the variables written to the ckt_output.dat file above. Can be used by the user to plot the variables with another software like Matplotlib.
+- auto_plot.py: This file will only be generated if the "Export to Matplotlib" button in the Output Page after running the simulation. This file will contain a sample Matplotlib file with all the plots that have been defined in the output page by the user.
+
