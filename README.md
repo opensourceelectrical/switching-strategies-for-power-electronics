@@ -1,4 +1,13 @@
-Each folder contains simulations for a chapter. Within each folder, every simulation has a separate folder. The simulations can be run using the free and open source circuit simulation Python Power Electronics. Check out the homepage of the project: <br />
+Each folder contains simulations for a chapter. Within each folder, every simulation has a separate folder.
+
+To start using the programs, install the Python packages needed. First install Anaconda Python. Then create an environment:
+conda create --name <env_name>
+Activate the environment:
+conda active <env_name>
+Within the root directory, install the dependencies:
+conda install --file requirements.txt
+
+The simulations can be run using the free and open source circuit simulation Python Power Electronics. Check out the homepage of the project: <br />
 http://www.pythonpowerelectronics.com/ <br />
 To download the latest version of the circuit simulator: <br />
 http://www.pythonpowerelectronics.com/?page=softwaredownloads <br />
