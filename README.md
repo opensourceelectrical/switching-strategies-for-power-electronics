@@ -1,12 +1,12 @@
 Each folder contains simulations for a chapter. Within each folder, every simulation has a separate folder.
 
-To start using the programs, install the Python packages needed. First install Anaconda Python. Then create an environment:
-conda create --name <env_name>
-Activate the environment:
-conda active <env_name>
-Within the root directory, install the dependencies:
-conda install --file requirements.txt
-
+To start using the programs, install the Python packages needed. First install Anaconda Python. Then create an environment: <br />
+conda create --name <env_name> <br />
+Activate the environment: <br />
+conda active <env_name> <br />
+Within the root directory, install the dependencies: <br />
+conda install --file requirements.txt <br />
+<br />
 The simulations can be run using the free and open source circuit simulation Python Power Electronics. Check out the homepage of the project: <br />
 http://www.pythonpowerelectronics.com/ <br />
 To download the latest version of the circuit simulator: <br />
