@@ -3,7 +3,7 @@ Each folder contains simulations for a chapter. Within each folder, every simula
 To start using the programs, install the Python packages needed. First install Anaconda Python. Then create an environment: <br />
 conda create --name <env_name> <br />
 Activate the environment: <br />
-conda active <env_name> <br />
+conda activate <env_name> <br />
 Within the root directory, install the dependencies: <br />
 conda install --file requirements.txt <br />
 <br />
